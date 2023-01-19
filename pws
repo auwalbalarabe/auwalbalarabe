@@ -1,0 +1,17 @@
+{
+
+"title" : "Update Available",
+
+"message" : "Click update to continue or cancel to close.",
+
+"ok" : "Update",
+
+"cancel" : "Cancel",
+
+"url" : "https://play.google.com/store/apps/details?id=com.arewangle.printwebsite",
+
+"code" : "16",
+
+"version" : "1.7"
+
+}
